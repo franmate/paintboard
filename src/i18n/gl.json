@@ -1,0 +1,183 @@
+{
+  "confirm": "Confirmar",
+  "cancel": "Cancelar",
+  "download": "Descargar",
+  "reset": "Restablecer",
+  "tool": {
+    "draw": "Debuxar",
+    "eraser": "Goma",
+    "select": "Seleccionar",
+    "board": "Pizarra"
+  },
+  "title": {
+    "drawType": "Tipo de Debuxo",
+    "drawStyle": "Estilo de Debuxo",
+    "drawWidth": "Grosor do Trazo",
+    "drawColor": "Cor do Trazo",
+    "lineType": "Tipo de Liña",
+    "shadow": "Sombra",
+    "AI": "IA",
+    "shapeType": "Tipo de Forma",
+    "shapeCount": "Cantidade de Formas",
+    "materialType": "Tipo de Material",
+    "multiColorType": "Tipo Multicolor",
+    "drawText": "Debuxar Texto",
+    "fontFamily": "Familia de Fonte",
+    "shapeLinePointCount": "Cantidade de Puntos",
+    "borderType": "Tipo de Borde",
+    "borderStyle": "Estilo de Borde",
+    "fillStyle": "Estilo de Enchido",
+    "eraserWidth": "Grosor da Goma",
+    "opacity": "Opacidade",
+    "layer": "Capa",
+    "imageFilters": "Filtros de Imaxe",
+    "fontStyle": "Estilo de Fonte",
+    "canvasBackground": "Fondo do Lenzo",
+    "canvasSize": "Tamaño do Lenzo",
+    "drawCache": "Caché de Debuxo",
+    "guideLine": "Liña de Guía"
+  },
+  "canvasSize": {
+    "width": "Ancho",
+    "height": "Alto"
+  },
+  "drawType": {
+    "freeStyle": "Estilo Libre",
+    "shape": "Forma"
+  },
+  "style": {
+    "basic": "Básico",
+    "rainbow": "Arco da vella",
+    "shape": "Forma",
+    "material": "Material",
+    "pixels": "Píxeles",
+    "multiColor": "Multicolor",
+    "text": "Texto",
+    "multiLine": "Multiliña",
+    "reticulate": "Retículo",
+    "multiPoint": "Multipunto",
+    "wiggle": "Serpeo",
+    "thorn": "Espiña"
+  },
+  "operate": {
+    "undo": "desfacer",
+    "redo": "refacer",
+    "copy": "copiar",
+    "delete": "borrar",
+    "text": "engadir texto",
+    "image": "cargar imaxe",
+    "clean": "limpar",
+    "save": "Gardar como imaxe",
+    "fileList": "Lista de Ficheiros"
+  },
+  "info": {
+    "welecome": "Benvido a Star",
+    "FreeStyle": {
+      "line1": "Ofrece 12 estilos diferentes de pinceis, incluíndo Pincel Básico, Pincel Arco da Vella, Pincel Multiforma, Pincel Multimaterial, Pincel de Píxeles, Pincel Multicolor, Pincel de Texto, Pincel de Conexión Multiliña, Pincel Reticulado, Pincel de Conexión Multipunto, Pincel Serpeante, Pincel de Espiñas. Satisfai o debuxo diversificado.",
+      "line2": "Todos os pinceis soportan configuracións de cor e grosor de pincel.",
+      "line3": "MultiForma permite unha configuración flexible dos tipos e cantidades de formas.",
+      "line4": "Material e Multicolor permiten axustar o tipo de material do pincel.",
+      "line5": "O debuxo de texto admite texto cíclico e configuración de fonte."
+    },
+    "ShapeDraw": {
+      "line1": "Ofrécense unha variedade de formas comúns para o debuxo, con soporte para segmentos multipunto e frechas. As formas admiten estilos de bordo e enchido."
+    },
+    "EraserMode": {
+      "line1": "O modo goma borra linealmente todo o contido.",
+      "line2": "Soporta configuracións de grosor lineal."
+    },
+    "SelectMode": {
+      "line1": "No modo de selección, podes facer clic no contido do debuxo para seleccionalo.",
+      "line2": "A asa de clic admite operacións de arrastrar e soltar, zoom e rotación, proporcionando opcións de edición flexibles.",
+      "line3": "A selección de imaxes admite múltiples configuracións de filtro.",
+      "line4": "Soporte para configuración de fonte ao seleccionar texto.",
+      "line5": "As configuracións de capa son compatibles con todos os debuxos, incluíndo Mover Capa Cara Arriba, Mover Capa Cara Abaixo, Mover ao Inicio e Mover ao Final.",
+      "line6": "Todos os debuxos admiten configuracións de transparencia."
+    },
+    "BoardMode": {
+      "line1": "A mesa de debuxo admite a configuración de fondo, incluíndo cor, imaxe de fondo e transparencia.",
+      "line2": "A mesa de debuxo admite configuracións personalizadas de ancho e alto.",
+      "line3": "Soporte para activar a caché de debuxo. Activar a caché mellorará o rendemento do debuxo na presenza de grandes cantidades de contido, mentres que desactivala mellorará a claridade do lenzo.",
+      "line4": "Soporta a activación e desactivación da liña de guía."
+    },
+    "BorderConfig": {
+      "line1": "O botón inferior esquerdo mostra a relación de zoom actual en tempo real; fai clic nel para restablecer a relación de zoom.",
+      "line2": "A lista de botóns no centro, en orde de esquerda a dereita, son: Desfacer, Refacer, Copiar Selección Actual, Eliminar Selección Actual, Debuxar Texto, Cargar Imaxe, Limpar Debuxo, Gardar como Imaxe e Abrir Lista de Ficheiros.",
+      "line3": "PC: Mantén premida a tecla Espazo e fai clic co botón esquerdo do rato para mover o lenzo, fai desprazamento coa roda do rato para realizar o zoom do lenzo, mantén premida a tecla Retroceso para eliminar o contido seleccionado e mantén premidas as teclas Ctrl + V para pegar a imaxe do portapapeis ao mesmo tempo.",
+      "line4": "Móbil: soporte para arrastrar e facer zoom no lenzo despois de premer con dous dedos."
+    },
+    "FileConfig": {
+      "line1": "Configuración de múltiples ficheiros: admite o cambio de múltiples lenzos, cada lenzo pode ter un título personalizado, engadir, eliminar e ofrecer carga e descarga."
+    }
+  },
+  "cleanModal": {
+    "title": "Confirmar a limpeza do contido?"
+  },
+  "deleteFileModal": {
+    "title": "Confirmar a eliminación do ficheiro actual?"
+  },
+  "toast": {
+    "uploadFileFail": "Erro ao cargar, tenta de novo."
+  },
+  "filters": {
+    "Sepia": "Sepia",
+    "Invert": "Inverter",
+    "BlackWhite": "Branco e Negro",
+    "Grayscale": "Escala de Grises",
+    "Blur": "Desenfoque",
+    "Vintage": "Vintage",
+    "BlendColor": "Mesturar Cores",
+    "Brownie": "Brownie",
+    "Kodachrome": "Kodachrome",
+    "Pixelate": "Pixelar",
+    "Polaroid": "Polaroid",
+    "Technicolor": "Technicolor",
+    "Brightness": "Brillo",
+    "Noise": "Ruído",
+    "Convolute": "Relieve"
+  },
+  "fontStyle": {
+    "bold": "Negra",
+    "italic": "Cursiva",
+    "underLine": "Subliñado",
+    "lineThrough": "Riscado"
+  },
+  "boardConfig": {
+    "cacheTip": "Na presenza de grandes cantidades de contido de debuxo, activar a caché mellorará o rendemento do debuxo, mentres que desactivala mellorará a nitidez do lenzo."
+  },
+  "request": {
+    "tip": "Non dubides en debuxar...",
+    "loading": "Cargando datos, agarda...",
+    "error": "Algo saíu mal. Tenta de novo máis tarde."
+  },
+  "uploadImage": {
+    "removeBackground": "Eliminar Fondo",
+    "removeBackgroundGpuTip": "WebGPU non é compatible con este navegador. Para usar a función de eliminar fondo, utiliza a última versión de Google Chrome.",
+    "removeBackgroundLoading": "Cargando a función de eliminar fondo",
+    "removeBackgroundFailed": "Erro ao cargar a función de eliminar fondo",
+    "removeBackgroundSuccess": "Función de eliminar fondo cargada correctamente",
+    "removeBackgroundProcessing": "Procesando eliminación de fondo",
+    "removeBackgroundProcessingSuccess": "Eliminación de fondo procesada correctamente",
+    "restore": "Restaurar",
+    "upload": "Cargar",
+    "imageSegmentation": "Segmentación de Imaxe",
+    "clearPoints": "Borrar Puntos",
+    "imageSegmentationLoading": "Cargando a función de segmentación de imaxe",
+    "imageSegmentationFailed": "Erro ao cargar a función de segmentación de imaxe",
+    "imageSegmentationSuccess": "Función de segmentación de imaxe cargada correctamente",
+    "imageSegmentationProcessing": "Procesando imaxe...",
+    "imageSegmentationProcessed": "A imaxe procesouse correctamente, podes facer clic na imaxe para marcala, a área de máscara verde é a área de segmentación.",
+    "imageSegmentationGpuTip": "WebGPU non é compatible con este navegador. Para usar a función de segmentación de imaxe, utiliza a última versión de Google Chrome.",
+    "positivePoint": "Positivo",
+    "negativePoint": "Negativo"
+  },
+  "downloadImage": {
+    "rotate": "Xirar",
+    "scale": "Escalar",
+    "size": "Cambiar tamaño"
+  },
+  "eraserConfig": {
+    "eraser": "Borrar",
+    "erasable": "Pódese borrar"
+  }
+}
